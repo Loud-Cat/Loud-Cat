@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about DN <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I'm 6ft tall
--->
 
 Thanks for reading!
