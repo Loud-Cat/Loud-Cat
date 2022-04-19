@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on school work and mini-projects, but on weekends and time off I'm available for more than that!
-- 🌱 I’m currently learning java and intermediate web design
-- 👯 I’m looking to collaborate on anything fun! <!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on school work and small projects
+- 🌱 I’m currently learning Processing for Java and p5.js
+- 👯 I love working on canvas animation and art projects! <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about DN <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I'm 6ft tall
