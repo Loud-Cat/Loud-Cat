@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently on summer break!
-- 🌱 Gaining experience with Processing and p5 libraries
+- 🌱 Gaining experience with Processing and p5.js libraries
 - 👯 I love working on canvas animation and art projects!
 - 💬 Ask me about DN
 - 😄 Pronouns: he/they
