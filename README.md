@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently on summer break!
 - 🌱 Gaining experience with Processing and p5.js libraries
-- 👯 I love canvas animation and other computer graphics!
+- 👯 I love canvas animation and computer graphics!
 - 💬 Ask me about DN
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I'm 6ft tall
