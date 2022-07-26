@@ -1,11 +1,5 @@
 ### Hi there 👋
-## I'm MedisonMan. I'm always learning and looking for opportunities.
-
-<!--
-**MedisonMan/MedisonMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+## I'm LoudestCat. I'm always learning and looking for opportunities.
 
 - 🔭 I’m currently on summer break!
 - 🌱 Gaining experience with Processing and p5.js libraries
