@@ -5,7 +5,6 @@
 - 🌱 Gaining experience with Processing and p5.js libraries
 - 👯 I love canvas animation and computer graphics!
 - 💬 Ask me about DN
-- 😄 Pronouns: he/they
 - ⚡ Fun fact: I'm 6ft tall
 
 Thanks for reading!
